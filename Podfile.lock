@@ -1,0 +1,20 @@
+PODS:
+  - Then (2.7.0)
+  - VanillaConstraints (1.0.4)
+
+DEPENDENCIES:
+  - Then
+  - VanillaConstraints
+
+SPEC REPOS:
+  trunk:
+    - Then
+    - VanillaConstraints
+
+SPEC CHECKSUMS:
+  Then: acfe0be7e98221c6204e12f8161459606d5d822d
+  VanillaConstraints: 72ceb6f087b4467b22209d078e43819d8d331bf5
+
+PODFILE CHECKSUM: 525b255fede041839b4190eb311f0efcc4c8def8
+
+COCOAPODS: 1.9.3
